@@ -1,0 +1,5 @@
+''' 
+    flush()
+    commit() 
+    rollback()
+'''
